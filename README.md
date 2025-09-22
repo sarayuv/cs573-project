@@ -36,9 +36,12 @@ Looking at the first scatterplot prototype, it is unclear whether this informati
 
 **September**
 * visualization 1
+  
 **October**
 * visualization 2 and 3
+  
 **November**
 * visualization 4 and writeups
+  
 **December**
 * finalize portfolio
