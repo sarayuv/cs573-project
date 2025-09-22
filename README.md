@@ -34,11 +34,11 @@ Looking at the first scatterplot prototype, it is unclear whether this informati
 
 ## Milestones
 
-September
+**September**
 * visualization 1
-October
+**October**
 * visualization 2 and 3
-November
+**November**
 * visualization 4 and writeups
-December
+**December**
 * finalize portfolio
