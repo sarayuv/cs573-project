@@ -26,7 +26,9 @@ The following tasks and questions will drive the visualization and interaction d
 
 I’ve created a proof of concept visualization of this data. It's a scatterplot, and it shows the relationship between resting blood pressure and cholesterol. Each data point is also colored based on the presence of heart disease.
 
-<img width="721" height="379" alt="image" src="https://github.com/user-attachments/assets/0742a22c-791d-420a-a629-dfe62fd2f64e" />
+<img width="850" height="425" alt="image" src="https://github.com/user-attachments/assets/4773a383-9209-4bfe-81f1-fd828cef6846" />
+
+
 
 ## Open Questions
 
