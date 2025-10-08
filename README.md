@@ -34,6 +34,10 @@ Heart Disease Presence by Chest Pain Type
 <img width="850" height="425" alt="image" src="https://github.com/user-attachments/assets/5be12a63-f45b-4b0b-a014-bdb3423b766a" />
 This bar plot shows the relationship between chest pain type and heart disease presence. It uses stacked bars to represent the percentage of people with and without heart disease for each chest pain type.
 
+Age by Heart Disease Status
+<img width="962" height="503" alt="image" src="https://github.com/user-attachments/assets/92c4c9e6-df58-4bbe-adb7-710657afaa83" />
+This histogram shows the age distribution of individuals with and without heart disease. The visualization shows that the likelihood of heart disease increases significantly in middle-aged and older adults.
+
 
 
 ## Open Questions
