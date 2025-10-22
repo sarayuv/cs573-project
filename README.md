@@ -28,17 +28,17 @@ I’ve created a proof of concept visualization of this data
 
 Resting Blood Pressure vs Cholesterol
 <img width="957" height="498" alt="image" src="https://github.com/user-attachments/assets/1dda6915-39b6-4247-a30b-57ceead55a28" />
-<iframe src="https://vizhub.com/sarayuv/b5de266a3453438a9058b5770a11f517?mode=embed&embed=branded" width="960" height="500" scrolling="no" frameborder="no"></iframe>
+https://vizhub.com/sarayuv/b5de266a3453438a9058b5770a11f517
 This scatterplot shows the relationship between resting blood pressure and cholesterol, with points colored by heart disease presence or absence. The latest additions to this visualization are tooltips and an interactive color legend.
 
 Heart Disease Presence by Chest Pain Type
 <img width="850" height="425" alt="image" src="https://github.com/user-attachments/assets/5be12a63-f45b-4b0b-a014-bdb3423b766a" />
-<iframe src="https://vizhub.com/sarayuv/705431824c0c408784f00494e2683380?mode=embed&embed=branded" width="960" height="500" scrolling="no" frameborder="no"></iframe>
+https://vizhub.com/sarayuv/f03873c28b2e40b185152cab723f9690
 This bar plot shows the relationship between chest pain type and heart disease presence. It uses stacked bars to represent the percentage of people with and without heart disease for each chest pain type.
 
 Age by Heart Disease Status
 <img width="962" height="503" alt="image" src="https://github.com/user-attachments/assets/92c4c9e6-df58-4bbe-adb7-710657afaa83" />
-<iframe src="https://vizhub.com/sarayuv/705431824c0c408784f00494e2683380?mode=embed&embed=branded" width="960" height="500" scrolling="no" frameborder="no"></iframe>
+https://vizhub.com/sarayuv/705431824c0c408784f00494e2683380
 This histogram shows the age distribution of individuals with and without heart disease. The visualization shows that the likelihood of heart disease increases significantly in middle-aged and older adults.
 
 
