@@ -28,24 +28,35 @@ The following tasks and questions will drive the visualization and interaction d
 I’ve created a proof of concept visualization of this data
 
 Resting Blood Pressure vs Cholesterol
-<img width="957" height="498" alt="image" src="https://github.com/user-attachments/assets/1dda6915-39b6-4247-a30b-57ceead55a28" />
+<img width="829" height="432" alt="image" src="https://github.com/user-attachments/assets/35135eba-a53b-441f-81b5-66e4d7d6ec9a" />
 [https://vizhub.com/sarayuv/b5de266a3453438a9058b5770a11f517
 ](https://vizhub.com/sarayuv/b5de266a3453438a9058b5770a11f517
-)This scatterplot shows the relationship between resting blood pressure and cholesterol, with points colored by heart disease presence or absence. The latest additions to this visualization are tooltips and an interactive color legend.
+)This scatterplot shows the relationship between resting blood pressure and cholesterol, with points colored by heart disease presence or absence. The latest additions to this visualization are tooltips, an interactive color legend, and an improved color scheme. 
 
 Heart Disease Presence by Chest Pain Type
-<img width="809" height="410" alt="image" src="https://github.com/user-attachments/assets/87d138d7-3694-4c77-b1df-edafec7f9bd5" />
+<img width="829" height="432" alt="image" src="https://github.com/user-attachments/assets/f907c96a-28e8-4b57-bcac-cc24f9bd2e9c" />
 [https://vizhub.com/sarayuv/c5a9aa4975e34d81afb760c862151e24
 ](https://vizhub.com/sarayuv/c5a9aa4975e34d81afb760c862151e24)
 This bar plot shows the relationship between chest pain type and heart disease presence. It uses stacked bars to represent the percentage of people with and without heart disease for each chest pain type. The latest edits to this visualization include interactions with the stacked bars and color legend.
 
 Age by Heart Disease Status
-<img width="809" height="410" alt="image" src="https://github.com/user-attachments/assets/3021fadb-d69c-4d47-830e-cbedf9274518" />
+<img width="829" height="432" alt="image" src="https://github.com/user-attachments/assets/d860f326-75c4-406e-bb45-6d16715c993d" />
 [https://vizhub.com/sarayuv/1b729155a7f74a8e9510f8ec31a6e168
 ](https://vizhub.com/sarayuv/1b729155a7f74a8e9510f8ec31a6e168))
 This histogram shows the age distribution of individuals with and without heart disease. The visualization shows that the likelihood of heart disease increases significantly in middle-aged and older adults. The latest additions to this visualization include interactions with the bars and color legend.
 
+Correlation Heatmap Matrix
+<img width="829" height="432" alt="image" src="https://github.com/user-attachments/assets/8731b1af-a796-4b76-9ecc-0d2ae90ef346" />
+[https://vizhub.com/sarayuv/0827c5cbfd9e4d6d9ffe6df253e5f7ab
+](https://vizhub.com/sarayuv/0827c5cbfd9e4d6d9ffe6df253e5f7ab)
+This visualization shows the correlation matrix for numeric variables in the dataset. Each cell represents the correlation coefficient between two variables, with:
+- Red colors indicating negative correlation
+- Blue colors indicating positive correlation
+- White indicating no correlation (value near 0)
+It also has hover tooltips showing correlation values and descriptions to make it easier for the viewer to understand if it is a strong or weak correlation.
 
+### 11/4/25 Update
+After creating a new heatmap correlation matrix, I have been working on unifying the color schemes and axes labels across all visualizations.
 
 ## Open Questions
 
