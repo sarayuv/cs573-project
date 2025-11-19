@@ -29,11 +29,28 @@ Before coding the visualizations, I created hand-drawn sketches to plan out how 
 I’ve created a proof of concept visualization of this data
 
 ### 1. Resting Blood Pressure vs. Cholesterol
-<img width="829" height="432" alt="image" src="https://github.com/user-attachments/assets/35135eba-a53b-441f-81b5-66e4d7d6ec9a" />
-[https://vizhub.com/sarayuv/b5de266a3453438a9058b5770a11f517
-](https://vizhub.com/sarayuv/b5de266a3453438a9058b5770a11f517
-)
+**Version 1:**
+
+<img width="818" height="426" alt="image" src="https://github.com/user-attachments/assets/996ae33f-763f-4841-8dc8-225905eed547" />
+https://vizhub.com/sarayuv/986f81f68f3d47a289f6e5f5c8e07f7c
+
+**Version 2:**
+
+<img width="818" height="426" alt="image" src="https://github.com/user-attachments/assets/3ae2b740-2ae3-4694-ba93-4acacf12195a" />
+https://vizhub.com/sarayuv/b5de266a3453438a9058b5770a11f517
+
+**Version 3:**
+
+<img width="818" height="426" alt="image" src="https://github.com/user-attachments/assets/7c5b097b-e31b-47a9-b317-e3fded4c8ee3" />
+https://vizhub.com/sarayuv/53bf02533eae4471a39610d7bf267b0f
+
+**Version 4:**
+
+<img width="818" height="426" alt="image" src="https://github.com/user-attachments/assets/0a474c3c-961c-4dae-a796-2d261ee5214c" />
+https://vizhub.com/sarayuv/b7bdb2ee507445cfb195a01522627d01
+
 This scatterplot explores the relationship between resting blood pressure and cholesterol, with colors indicating heart disease presence.
+
 **Key Features:**
 * Tooltips display detailed patient-level information
 * Interactive color legend allows users to filter by heart disease status
@@ -41,33 +58,73 @@ This scatterplot explores the relationship between resting blood pressure and ch
 While there’s some variation, cholesterol and blood pressure don’t show a strong linear relationship with heart disease on their own. This suggests other variables may be stronger predictors
 
 ### 2. Heart Disease Presence by Chest Pain Type
-<img width="829" height="432" alt="image" src="https://github.com/user-attachments/assets/f907c96a-28e8-4b57-bcac-cc24f9bd2e9c" />
-[https://vizhub.com/sarayuv/c5a9aa4975e34d81afb760c862151e24
-](https://vizhub.com/sarayuv/c5a9aa4975e34d81afb760c862151e24)
+
+**Version 1:**
+
+<img width="818" height="426" alt="image" src="https://github.com/user-attachments/assets/5f065008-cfb4-4b33-a08c-b6d43233c011" />
+https://vizhub.com/sarayuv/f03873c28b2e40b185152cab723f9690
+
+**Version 2:**
+
+<img width="818" height="426" alt="image" src="https://github.com/user-attachments/assets/b8c0dd4f-9e7a-4b42-bc28-bae6d925b81e" />
+https://vizhub.com/sarayuv/c5a9aa4975e34d81afb760c862151e24
+
+**Version 3:**
+
+<img width="818" height="426" alt="image" src="https://github.com/user-attachments/assets/6d5db715-0b86-4da7-a1c5-411659ea7b48" />
+https://vizhub.com/sarayuv/2fc6c846c282490f8b3ac7365cd930a0
+
 This stacked bar chart visualizes the percentage of patients with and without heart disease for each chest pain type.
+
 **Key Features:**
+
 * Stacked bars for visual comparison of proportions
 * Interactive hover tooltips showing counts and percentages
 * Clickable legend toggles visibility of groups.
 Certain chest pain types, particularly those labeled “asymptomatic,” show a much higher rate of heart disease, confirming a strong categorical link.
 
 ### 3. Age by Heart Disease Status
-<img width="829" height="432" alt="image" src="https://github.com/user-attachments/assets/d860f326-75c4-406e-bb45-6d16715c993d" />
-[https://vizhub.com/sarayuv/1b729155a7f74a8e9510f8ec31a6e168
-](https://vizhub.com/sarayuv/1b729155a7f74a8e9510f8ec31a6e168))
+
+**Version 1:**
+
+<img width="818" height="426" alt="image" src="https://github.com/user-attachments/assets/f494cea3-5cf8-4f3a-b1e5-b5d260d89782" />
+https://vizhub.com/sarayuv/705431824c0c408784f00494e2683380
+
+**Version 2:**
+
+<img width="815" height="426" alt="image" src="https://github.com/user-attachments/assets/a6f2b043-99b0-414e-b4b9-616ffaa26f20" />
+https://vizhub.com/sarayuv/1b729155a7f74a8e9510f8ec31a6e168
+
+**Version 3:**
+
+<img width="815" height="426" alt="image" src="https://github.com/user-attachments/assets/b844c1bd-a3d7-460a-b7f6-ae5170709a14" />
+https://vizhub.com/sarayuv/6464a597ccdd4adfa8b709f171943b87
+
 A histogram showing how the likelihood of heart disease changes across age groups.
+
 **Key Features:**
+
 * Overlapping histograms colored by disease status
 * Smooth transitions for hover interactions
 * Unified color palette consistent with other visualizations.
 Heart disease prevalence increases significantly in middle-aged and older adults, as expected, but the visualization also highlights smaller proportions of younger individuals with early-onset cases.
 
 ### 4. Correlation Heatmap Matrix
-<img width="829" height="432" alt="image" src="https://github.com/user-attachments/assets/8731b1af-a796-4b76-9ecc-0d2ae90ef346" />
-[https://vizhub.com/sarayuv/0827c5cbfd9e4d6d9ffe6df253e5f7ab
-](https://vizhub.com/sarayuv/0827c5cbfd9e4d6d9ffe6df253e5f7ab)
+
+**Version 1:**
+
+<img width="815" height="426" alt="image" src="https://github.com/user-attachments/assets/dd9f5f07-eccb-48ec-b094-c5d68f5b02c9" />
+https://vizhub.com/sarayuv/0827c5cbfd9e4d6d9ffe6df253e5f7ab
+
+**Version 2:**
+
+<img width="815" height="426" alt="image" src="https://github.com/user-attachments/assets/508d1cf7-1c11-4186-98b6-283b2cbb9b4b" />
+https://vizhub.com/sarayuv/8633a5b4e2284fc6a602336b34df3d7b
+
 This heatmap displays correlations among all numeric variables.
+
 **Key Features:**
+
 * Hover tooltips show exact correlation coefficients
 * Axis labels rotate for clarity
 * Consistent labeling and color scaling across the project
@@ -83,8 +140,11 @@ These changes made the visualizations feel like a cohesive analytical dashboard 
 ## Open Questions
 During the course of this project, I found that some scatterplots (cholesterol vs. resting blood pressure, for example) were not as informative as expected. While technically correct, they didn't reveal clear trends. This made me wonder what makes a visualization actually useful instead of simply accurate. 
 
+## 11/18 Update
+I have iterated on the correlation matrix heatmap and made it more interactive. I also took into consideration changing some of the bar plots to be percentages instead of frequencies.
+
 ## Next Steps
-I plan to extend this project further by building an interactive dashboard that combines all four visualization in a single interface. I also would like to add filtering by gender or age group to see subgroup trends. I hope to integrate more statistical summaries as well. If time permits, the future iterations could focus more on derived metrics (cholesterol-to-HDL ratio, for example).
+I plan to extend this project further by building an interactive dashboard that combines all four visualization in a single interface. If time permits, the future iterations could focus more on derived metrics (cholesterol-to-HDL ratio, for example).
 
 ## Conclusion
 By transforming a raw dataset into a set of interactive visualizations, I was able to uncover meaningful insights about heart disease patterns. Each visualization provides a window into how different attributes relate to heart health, and together, write a story about the data.
