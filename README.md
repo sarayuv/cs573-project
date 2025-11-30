@@ -39,7 +39,7 @@ I’ve created a proof of concept visualization of this data.
 
 **Version 3:**
 
-<![Resting Blood Pressure vs. Cholesterol V3](https://github.com/user-attachments/assets/7c5b097b-e31b-47a9-b317-e3fded4c8ee3)](https://vizhub.com/sarayuv/53bf02533eae4471a39610d7bf267b0f)
+[![Resting Blood Pressure vs. Cholesterol V3](https://github.com/user-attachments/assets/7c5b097b-e31b-47a9-b317-e3fded4c8ee3)](https://vizhub.com/sarayuv/53bf02533eae4471a39610d7bf267b0f)
 
 **Version 4:**
 
