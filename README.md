@@ -35,18 +35,15 @@ I’ve created a proof of concept visualization of this data.
 
 **Version 2:**
 
-<img width="818" height="426" alt="image" src="https://github.com/user-attachments/assets/3ae2b740-2ae3-4694-ba93-4acacf12195a" />
-https://vizhub.com/sarayuv/b5de266a3453438a9058b5770a11f517
+[![Resting Blood Pressure vs. Cholesterol V2](https://github.com/user-attachments/assets/3ae2b740-2ae3-4694-ba93-4acacf12195a)](https://vizhub.com/sarayuv/b5de266a3453438a9058b5770a11f517)
 
 **Version 3:**
 
-<img width="818" height="426" alt="image" src="https://github.com/user-attachments/assets/7c5b097b-e31b-47a9-b317-e3fded4c8ee3" />
-https://vizhub.com/sarayuv/53bf02533eae4471a39610d7bf267b0f
+<![Resting Blood Pressure vs. Cholesterol V3](https://github.com/user-attachments/assets/7c5b097b-e31b-47a9-b317-e3fded4c8ee3)](https://vizhub.com/sarayuv/53bf02533eae4471a39610d7bf267b0f)
 
 **Version 4:**
 
-<img width="818" height="426" alt="image" src="https://github.com/user-attachments/assets/0a474c3c-961c-4dae-a796-2d261ee5214c" />
-https://vizhub.com/sarayuv/b7bdb2ee507445cfb195a01522627d01
+[![Resting Blood Pressure vs. Cholesterol V4](https://github.com/user-attachments/assets/0a474c3c-961c-4dae-a796-2d261ee5214c)](https://vizhub.com/sarayuv/b7bdb2ee507445cfb195a01522627d01)
 
 This scatterplot explores the relationship between resting blood pressure and cholesterol, with colors indicating heart disease presence.
 
@@ -60,18 +57,15 @@ While there’s some variation, cholesterol and blood pressure don’t show a st
 
 **Version 1:**
 
-<img width="818" height="426" alt="image" src="https://github.com/user-attachments/assets/5f065008-cfb4-4b33-a08c-b6d43233c011" />
-https://vizhub.com/sarayuv/f03873c28b2e40b185152cab723f9690
+[![Heart Disease Presence by Chest Pain Type V1](https://github.com/user-attachments/assets/5f065008-cfb4-4b33-a08c-b6d43233c011)](https://vizhub.com/sarayuv/f03873c28b2e40b185152cab723f9690)
 
 **Version 2:**
 
-<img width="818" height="426" alt="image" src="https://github.com/user-attachments/assets/b8c0dd4f-9e7a-4b42-bc28-bae6d925b81e" />
-https://vizhub.com/sarayuv/c5a9aa4975e34d81afb760c862151e24
+[![Heart Disease Presence by Chest Pain Type V2](https://github.com/user-attachments/assets/b8c0dd4f-9e7a-4b42-bc28-bae6d925b81e)](https://vizhub.com/sarayuv/c5a9aa4975e34d81afb760c862151e24)
 
 **Version 3:**
 
-<img width="818" height="426" alt="image" src="https://github.com/user-attachments/assets/6d5db715-0b86-4da7-a1c5-411659ea7b48" />
-https://vizhub.com/sarayuv/2fc6c846c282490f8b3ac7365cd930a0
+[![Heart Disease Presence by Chest Pain Type V3](https://github.com/user-attachments/assets/6d5db715-0b86-4da7-a1c5-411659ea7b48)](https://vizhub.com/sarayuv/2fc6c846c282490f8b3ac7365cd930a0)
 
 This stacked bar chart visualizes the percentage of patients with and without heart disease for each chest pain type.
 
@@ -86,18 +80,15 @@ Certain chest pain types, particularly those labeled “asymptomatic,” show a 
 
 **Version 1:**
 
-<img width="818" height="426" alt="image" src="https://github.com/user-attachments/assets/f494cea3-5cf8-4f3a-b1e5-b5d260d89782" />
-https://vizhub.com/sarayuv/705431824c0c408784f00494e2683380
+[![Age by Heart Disease Status V1](https://github.com/user-attachments/assets/f494cea3-5cf8-4f3a-b1e5-b5d260d89782)](https://vizhub.com/sarayuv/705431824c0c408784f00494e2683380)
 
 **Version 2:**
 
-<img width="815" height="426" alt="image" src="https://github.com/user-attachments/assets/a6f2b043-99b0-414e-b4b9-616ffaa26f20" />
-https://vizhub.com/sarayuv/1b729155a7f74a8e9510f8ec31a6e168
+[![Age by Heart Disease Status V2](https://github.com/user-attachments/assets/a6f2b043-99b0-414e-b4b9-616ffaa26f20)](https://vizhub.com/sarayuv/1b729155a7f74a8e9510f8ec31a6e168)
 
 **Version 3:**
 
-<img width="815" height="426" alt="image" src="https://github.com/user-attachments/assets/b844c1bd-a3d7-460a-b7f6-ae5170709a14" />
-https://vizhub.com/sarayuv/6464a597ccdd4adfa8b709f171943b87
+[![Age by Heart Disease Status V3](https://github.com/user-attachments/assets/b844c1bd-a3d7-460a-b7f6-ae5170709a14)](https://vizhub.com/sarayuv/6464a597ccdd4adfa8b709f171943b87)
 
 A histogram showing how the likelihood of heart disease changes across age groups.
 
@@ -112,13 +103,11 @@ Heart disease prevalence increases significantly in middle-aged and older adults
 
 **Version 1:**
 
-<img width="815" height="426" alt="image" src="https://github.com/user-attachments/assets/dd9f5f07-eccb-48ec-b094-c5d68f5b02c9" />
-https://vizhub.com/sarayuv/0827c5cbfd9e4d6d9ffe6df253e5f7ab
+[![Correlation Heatmap Matrix V1](https://github.com/user-attachments/assets/dd9f5f07-eccb-48ec-b094-c5d68f5b02c9)](https://vizhub.com/sarayuv/0827c5cbfd9e4d6d9ffe6df253e5f7ab)
 
 **Version 2:**
 
-<img width="815" height="426" alt="image" src="https://github.com/user-attachments/assets/508d1cf7-1c11-4186-98b6-283b2cbb9b4b" />
-https://vizhub.com/sarayuv/8633a5b4e2284fc6a602336b34df3d7b
+[![Correlation Heatmap Matrix](https://github.com/user-attachments/assets/508d1cf7-1c11-4186-98b6-283b2cbb9b4b)](https://vizhub.com/sarayuv/8633a5b4e2284fc6a602336b34df3d7b)
 
 This heatmap displays correlations among all numeric variables.
 
