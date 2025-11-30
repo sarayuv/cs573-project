@@ -26,13 +26,12 @@ Before coding the visualizations, I created hand-drawn sketches to plan out how 
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data
+I’ve created a proof of concept visualization of this data.
 
 ### 1. Resting Blood Pressure vs. Cholesterol
 **Version 1:**
 
-<img width="818" height="426" alt="image" src="https://github.com/user-attachments/assets/996ae33f-763f-4841-8dc8-225905eed547" />
-https://vizhub.com/sarayuv/986f81f68f3d47a289f6e5f5c8e07f7c
+[![Resting Blood Pressure vs. Cholesterol V1](https://github.com/user-attachments/assets/996ae33f-763f-4841-8dc8-225905eed547)](https://vizhub.com/sarayuv/986f81f68f3d47a289f6e5f5c8e07f7c)
 
 **Version 2:**
 
