@@ -128,11 +128,15 @@ These changes made the visualizations feel like a cohesive analytical dashboard 
 ## Open Questions
 During the course of this project, I found that some scatterplots (cholesterol vs. resting blood pressure, for example) were not as informative as expected. While technically correct, they didn't reveal clear trends. This made me wonder what makes a visualization actually useful instead of simply accurate. 
 
-## 11/18 Update
-I have iterated on the correlation matrix heatmap and made it more interactive. I also took into consideration changing some of the bar plots to be percentages instead of frequencies.
-
 ## Next Steps
-I plan to extend this project further by building an interactive dashboard that combines all four visualization in a single interface. If time permits, the future iterations could focus more on derived metrics (cholesterol-to-HDL ratio, for example).
+There are several different directions this project could go to provide deeper insights into heart disease. 
+1. Interactive Dashboards: Combining multiple visualizations into a single interface could allow users to explore relationships between variables more seamlessly.
+2. Derived Metrics: Creating additional features, such as cholesterol-to-HDL ratios or blood pressure categories, may reveal patterns not apparent in raw data.
+3. Predictive Modeling Integration: Visualizations could be linked to predictive models to highlight risk factors dynamically.
+4. Advanced Filtering and Drill-Downs: Filtering by age ranges, gender, or chest pain type could help isolate specific patterns within subgroups.
+5. Enhanced Interactivity: Animations or linked views could enable richer exploration and storytelling.
+This dataset has substantial potential for further exploration, both in revealing hidden trends and in supporting data-driven decision-making.
 
 ## Conclusion
+While certain features, such as chest pain type, show a strong association with disease presence, others like cholesterol and resting blood pressure, appear less predictive on their own, indicating that multiple variables may need to be considered together to uncover deeper insights. Age-related trends are apparent, with higher prevalence in middle-aged and older adults, but the visualizations also highlight younger individuals with early cases. Correlated features, including maximum heart rate, exercise-induced angina, and ST depression are important factors that should be explored further.
 By transforming a raw dataset into a set of interactive visualizations, I was able to uncover meaningful insights about heart disease patterns. Each visualization provides a window into how different attributes relate to heart health, and together, write a story about the data.
